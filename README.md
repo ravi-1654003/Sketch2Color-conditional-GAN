@@ -2,7 +2,7 @@
 Using concept of Conditional GAN we will generate fake color image conditioned over sketch images
 
 
-Try out your self Dataset if=d from kaggle.
+Dataset from kaggle.
 
 
 Link:- https://www.kaggle.com/wuhecong/danbooru-sketch-pair-128x
@@ -16,7 +16,7 @@ Link :- https://medium.com/@raviranjankr165/sketch-to-color-anime-an-application
 
 
 
-The Exciting results are here.
+The results over test data is below.
 
 
 ![](results/9.png)
